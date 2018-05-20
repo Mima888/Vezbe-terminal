@@ -1,0 +1,182 @@
+    1  pwd
+    2  cd Desktop/
+    3  ls
+    4  ls -li
+    5  ls -la
+    6  clear
+    7  cd workspace/html-css-uvod/public-html
+    8  cat index.hmlt
+    9  cat index.html
+   10  cd workspace/
+   11  cd html-css-uvod
+   12  cd public-html/
+   13  nano index.html
+   14  cd
+   15  mkdir git-test
+   16  cd git-test
+   17  git status
+   18  git init
+   19  git status
+   20  pwd
+   21  ls
+   22  ls -l
+   23  ls -la
+   24  mkdir f1
+   25  pwd
+   26  mkdir f2 f3 f4
+   27  ls -la
+   28  mkdir f5/f6
+   29  mkdir -r
+   30  mkdir -r f5/f6
+   31  man mkdir
+   32  touch f3/file.txt
+   33  ls -la f3/
+   34  cp f3/file.txt f1/
+   35  ls -la f1/
+   36  mv f3/file.txt pera.txt
+   37  ls -la
+   38  mv f3/file.txt f3/pera.txt
+   39  rm pera.txt
+   40  ls
+   41  cp f1/file.txt f3/
+   42  ls
+   43  ls f3
+   44  cd f3/
+   45  which git
+   46  git --version
+   47  cd Desktop/workspace
+   48  mkdir portfolio
+   49  cd portfolio/
+   50  ls
+   51  git init
+   52  ls
+   53  ls -a
+   54  ls -la
+   55  touch index.html
+   56  ls
+   57  git status
+   58  touch style.css
+   59  ls
+   60  git status
+   61  clear
+   62  git add index.html 
+   63  git status
+   64  git commit -m "kreira index.html"
+   65  clear
+   66  git log
+   67  git config --global user.emal "mima28412@gmail.com
+   68  git config --global user.name "Mima"
+   69  git config --global user.email "mima28412@gmail.com
+   70  git config --global user.name "Mima"
+   71  git commit -m "kreira index.html"
+   72  git config --global user.name "Mima"
+   73  git config --global user.email "mima28412@gmail.com"
+   74  git commit -m "kreira index.html"
+   75  git status
+   76  nano index.html 
+   77  git status
+   78  git add index.html 
+   79  git add style.css
+   80  git status
+   81  git commit -m "dodaje novi naslov i kreira css file"
+   82  git status
+   83  git log
+   84  clear
+   85  nano index.html 
+   86  git status
+   87  nano style.css 
+   88  git status
+   89  touch main.js
+   90  git status
+   91  git add .
+   92  git status
+   93  git commit -m "dodaje opis i js file"
+   94  git status
+   95  git log
+   96  git remote add origin https://github.com/Mima888/portfolio.git
+   97  git push -u origin master
+   98  git status
+   99  git fetch
+  100  git status
+  101  git pull
+  102  git status
+  103  cat main.js 
+  104  cd Desktop/
+  105  mkdir home-workspace
+  106  cd home-workspace/
+  107  git clone https://github.com/Mima888/portfolio.git
+  108  ls
+  109  cd portfolio/
+  110  git status
+  111  git log
+  112  nano main.js 
+  113  git status
+  114  git add main.js
+  115  git commit -m "dodaje alert"
+  116  git status
+  117  git log
+  118  git push
+  119  git status
+  120  cd JS zadatak/
+  121  cd Desktop/
+  122  cd JS zadatak/
+  123  cd JSzadatak/
+  124  git init
+  125  ls
+  126  ls -a
+  127  cd zadatak/
+  128  ls -a
+  129  git init
+  130  ls -a
+  131  ls -la
+  132  git status
+  133  git add.
+  134  git add .
+  135  git status
+  136  git commit -m "domaci js"
+  137  git log
+  138  git remote add origin https://github.com/Mima888/BMI-kalkulator.git
+  139  git push -u origin master
+  140  clear
+  141  cd Dre
+  142  cd Desktop/
+  143  cd
+  144  cd Desktop/
+  145  cd vezba-css/
+  146  git init
+  147  ls -a
+  148  ls -a
+  149  git add .
+  150  git status
+  151  git commit -m "dodat domaci css"
+  152  rm vezba-css.zip 
+  153  git status
+  154  git reset
+  155  git status
+  156  git reset HEAD --hard
+  157  git status
+  158  ls -la
+  159  git remote add orgin https://github.com/Mima888/CSS-domaci.git
+  160  git push -u orgin master
+  161  rm vezba-css.zip
+  162  git status
+  163  git commit -m "sklonjen zip"
+  164  git push -u orgin master
+  165  git add . 
+  166  git commit -m "sklonjen zip"
+  167  git push -u orgin master
+  168  git status
+  169  clear
+  170  cd
+  171  cd Desktop/
+  172  cd workspace/
+  173  nano ~/.bash
+  174  nano ~/.bash_profile
+  175  exit
+  176  l
+  177  nano ~/.bash_profile
+  178  cd
+  179  cd Desktop/
+  180  history
+  181  clear
+  182  history > istorija.txt
