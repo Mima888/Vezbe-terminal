@@ -1,0 +1,58 @@
+  310  cd NetBeansProjects/cars/
+  311  pwd
+  312  git status
+  313  git init
+  314  git status
+  315  git add .
+  316  git commit -m "Novi projekat Cars/predavanje"
+  317  git remote add origin https://github.com/Mima888/Cars.git
+  318  git push -u origin master
+  319  git status
+  320  cd NetBeansProjects/Cars/
+  321  git status
+  322  l
+  323  git brench
+  324  git branch
+  325  git checkout -b godina_proizvodnje
+  326  git branch
+  327  git checkout -b godina_proizvodnje_backup
+  328  git checkout -b godina_proizvodnjebackup
+  329  git checkout  godina_proizvodnje
+  330  git add .
+  331  git commit -m "Dodate nove funkcionalnosti"
+  332  git status
+  333  git branch -D godina_proizvodnjebackup
+  334  git branch -D godina_proizvodnje_backup
+  335  git branch
+  336  git checkout -b godina_proizvodnje_backup
+  337  git branch
+  338  git branch master
+  339  git checkout master
+  340  git branch
+  341  git merge godina_proizvodnje
+  342  git diff
+  343  git status
+  344  git push -u origin master
+  345  git checkout godina_proizvodnje
+  346  git branch
+  347  git push -u origin godina_proizvodnje
+  348  git checkout master
+  349  git pull 
+  350  git branch
+  351  git pull
+  352  git checkout -b svetla
+  353  git branch
+  354  git status
+  355  git add .
+  356  git status
+  357  git commit -m "Dodata svetla"
+  358  git push -u origin svetla
+  359  git checkout master
+  360  git diff
+  361  git checkout svetla
+  362  git diff
+  363  git diff master svetla
+  364  git branch
+  365  cd
+  366  cd Desktop/Vezbeterminal/
+  367  history > branch\ komande.txt
