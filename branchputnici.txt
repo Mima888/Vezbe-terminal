@@ -1,0 +1,23 @@
+
+  409  pwd
+  410  cd NetBeansProjects/Cars/
+  411  git status
+  412  git branch
+  413  git branch putnici
+  414  git branch
+  415  git checkout putnici
+  416  git branch
+  417  git status
+  418  git add .
+  419  got status
+  420  git status
+  421  git commit -m "Metodi za ulazak i izlazak putnika"
+  422  git remote add origin https://github.com/Mima888/Cars.git
+  423  git push putnici
+  424  git push -u origin putnici
+  425  git status
+  426  cd Desktop/Vezbeterminal
+  427  cd Desktop/
+  428  cd
+  429  cd Desktop/Vezbeterminal/
+  430  history > branchputnici.txt
